@@ -44,7 +44,7 @@
                 <option value=""></option>
                 <option value="male" >Male</option>
                 <option value="female" selected>Female</option>
-                <option value="femboy">Femboy</option>
+                <option value="femboy">bakla</option>
                 <option value="other">Other</option>
             </select>
 
